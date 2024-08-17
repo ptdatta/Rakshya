@@ -51,7 +51,7 @@ Welcome to the **Rakshya** – your lifeline in critical situations. This app is
 
 ## Installation
 
-In order to install "Rakshya" in your android device go to [Releases](https://github.com/ptdatta/Rakshya-KUHackfest2023/releases/tag/v1.0.0) section of this repository and download the appropriate .apk file according to your device specifications.
+In order to install "Rakshya" in your android device go to [Releases](https://github.com/ptdatta/Rakshya/releases) section of this repository and download the appropriate .apk file according to your device specifications.
 
 If you want to run the app in your local machine, first install all the dependencies required for react native and then follow the instructions below:
 
@@ -76,7 +76,7 @@ npx react-native run-ios
 - Allow all the permissions asked during setup for the app to work as intended. (Set location to Allowed all the time)
 - Restart the app once after the initial setup.
 - Double tap on screen to activate voice mode in home screen.
-- Voice commands at [Commands](https://github.com/ptdatta/Rakshya-KUHackfest2023/blob/main/voicecommands.md).
+- Voice commands at [Commands](https://github.com/ptdatta/Rakshya/blob/v1.0.0/voicecommands.md).
 - Double tap on the navbar to activate voice mode on other pages than home screen.
 - Jerk the phone once to activate panic mode.
 - Enjoy your safety.
@@ -87,7 +87,7 @@ One of the main motivations of making this app was making it accessible to most 
 
 ## Voice Control
 
-As stated earlier to make this app accessible to most people we implemented voice control functionality for the people who don't have the perfect vision. Every gesture that can be handled with touch also has a voice command for it. For reading all the voice commands go to [Voice Commands](https://github.com/ptdatta/Rakshya-KUHackfest2023/blob/main/voicecommands.md).
+As stated earlier to make this app accessible to most people we implemented voice control functionality for the people who don't have the perfect vision. Every gesture that can be handled with touch also has a voice command for it. For reading all the voice commands go to [Voice Commands](https://github.com/ptdatta/Rakshya/blob/v1.0.0/voicecommands.md).
 
 ## Location Tracking
 
